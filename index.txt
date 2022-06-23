@@ -1,0 +1,7 @@
+## React
+
+Uma biblioteca de Javascript para criar interfaces de usuários.
+
+## Body Plate - Base de projeto
+Create React App - npm create react app
+Vite - npm create vite@latest
